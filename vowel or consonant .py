@@ -1,7 +1,8 @@
-a=input("enter the letter")
+b=input("enter the letter")
 y=['a','e','i','o','u','A','E','I','O','U']
-if a in y:
-  print("vowel")
+if b in y:
+    print("vowel")
 else:
-  print("consonant")
+    print("consonant")
+
 
